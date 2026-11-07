@@ -203,3 +203,6 @@ This repository serves as the official landing page for Etrian Odyssey HD. The s
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Etrian Odyssey HD today!**
+
+---
+**Last updated:** 2026-11-07 15:26:18 UTC
