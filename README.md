@@ -205,4 +205,4 @@ This repository serves as the official landing page for Etrian Odyssey HD. The s
 **Get the most recent version of Etrian Odyssey HD today!**
 
 ---
-**Last updated:** 2026-11-10 03:11:25 UTC
+**Last updated:** 2026-11-10 12:08:26 UTC
